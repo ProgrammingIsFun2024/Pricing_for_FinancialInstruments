@@ -1,1 +1,1 @@
-# Price-for-HSBC-Product-Using-Python
+Coursework from the Derivatives Course - Applied Monte Carlo Simulation to real products: Calculated the embedded option value of HSBC Life Variable Annuity using information from the product brochure.
